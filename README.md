@@ -8,7 +8,6 @@
 
 - 👯 I’m looking to collaborate on **reactjs and typescript**
 
-- 🤝 I’m looking for help with **others**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
